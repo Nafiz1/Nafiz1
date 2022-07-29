@@ -16,7 +16,7 @@
 <br>
 
 
-![Nafiz's github stats](https://github-readme-stats.vercel.app/api?username=Nafiz1e&show_icons=true&hide_border=true)
+![Nafiz's github stats](https://github-readme-stats.vercel.app/api?username=Nafiz1&show_icons=true&hide_border=true)
 
 <br>
 
