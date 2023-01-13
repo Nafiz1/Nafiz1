@@ -12,7 +12,7 @@
 <br>
 
 
-![Nafiz's github stats](https://github-readme-stats.vercel.app/api?username=Nafiz1&show_icons=true&hide_border=true)
+![Nafiz's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nafiz1&show_icons=true&hide_border=true)
 
 <br>
 
@@ -25,4 +25,4 @@
 
 <br><br><br><br>
 
-**⭐️ From [Nafiz1](https://github.com/Nafiz1)**
+**From [Nafiz1](https://github.com/Nafiz1)**
