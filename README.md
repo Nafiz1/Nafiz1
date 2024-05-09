@@ -22,5 +22,3 @@
   </a>
 
 <br><br><br><br>
-
-**From [Nafiz1](https://github.com/Nafiz1)**
