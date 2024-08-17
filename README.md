@@ -6,13 +6,14 @@
   </em>  
 </p>
 
-
+<!--
 <br>
 
 
 ![Nafiz's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nafiz1&show_icons=true&hide_border=true)
 
 <br>
+-->
 
   <a href="https://www.linkedin.com/in/nafiz-hasan-2581461a6/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
