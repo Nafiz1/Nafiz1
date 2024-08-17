@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a 2nd Year undergraduate student from <a href="https://www.uwindsor.ca/"> <b>the University of Windsor</b></a>. <br>
+    I am a 4th Year undergraduate student from <a href="https://www.uwindsor.ca/"> <b>the University of Windsor</b></a>. <br>
   </em>  
 </p>
 
